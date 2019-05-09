@@ -1,0 +1,13 @@
+{
+	"domain":"http://tuoitre.vn",
+	"skipext":	[
+					"pdf",
+					"xml"
+				],
+	"parserobots":false,
+	"debug":true,
+	"output":"sitemap.xml",
+	"exclude":	[
+				"action=edit"
+				]
+}
